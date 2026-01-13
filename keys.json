@@ -1,3 +1,10 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "key": "NEXORA-3R4L-8RT9-G5MI",
+      "expires_at": "2026-01-14",
+      "active": true,
+      "note": "test ediliyor"
+    }
+  ]
 }
