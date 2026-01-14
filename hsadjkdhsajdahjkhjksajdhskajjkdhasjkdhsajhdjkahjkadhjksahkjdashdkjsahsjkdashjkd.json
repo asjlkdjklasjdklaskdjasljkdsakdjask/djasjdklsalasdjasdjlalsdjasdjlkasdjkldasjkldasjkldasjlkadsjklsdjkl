@@ -1,3 +1,12 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "key": "NEXORA-O2U9-RU9N-XKKC",
+      "expires_at": "2026-06-13",
+      "active": true,
+      "note": "Admin",
+      "created": "2026-01-14",
+      "type": "150 DAY"
+    }
+  ]
 }
