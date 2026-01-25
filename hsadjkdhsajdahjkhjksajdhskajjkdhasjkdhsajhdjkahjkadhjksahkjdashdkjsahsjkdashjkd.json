@@ -1,12 +1,3 @@
 {
-  "keys": [
-    {
-      "key": "XENO-2CCN-LM6T-O2LC",
-      "expires_at": null,
-      "active": true,
-      "note": "admin",
-      "created": "2026-01-25",
-      "type": "LIFETIME"
-    }
-  ]
+  "keys": []
 }
