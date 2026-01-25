@@ -1,3 +1,12 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "key": "XENO-A4DR-CSB8-SFJ4",
+      "expires_at": "2026-06-24",
+      "active": true,
+      "note": "admin",
+      "created": "2026-01-25",
+      "type": "150 DAY"
+    }
+  ]
 }
