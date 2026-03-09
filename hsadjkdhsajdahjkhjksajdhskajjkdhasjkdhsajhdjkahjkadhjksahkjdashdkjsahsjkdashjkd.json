@@ -1,4 +1,12 @@
 {
-  "licenses": {},
-  "logs": []
+    "licenses": {
+        "E9C32003-E91C-4553-B73A-64B2AD916748": {
+            "created": 1773063614,
+            "expire": 1773495614,
+            "hwid": null,
+            "ip": null,
+            "banned": false
+        }
+    },
+    "logs": []
 }
