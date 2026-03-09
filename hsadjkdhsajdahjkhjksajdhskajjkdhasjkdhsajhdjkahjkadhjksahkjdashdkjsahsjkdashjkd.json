@@ -6,6 +6,13 @@
             "hwid": null,
             "ip": null,
             "banned": false
+        },
+        "83E6DC0C-697E-4BB9-8CF1-DA305ED5F31E": {
+            "created": 1773063883,
+            "expire": 1775655883,
+            "hwid": null,
+            "ip": null,
+            "banned": false
         }
     },
     "logs": []
