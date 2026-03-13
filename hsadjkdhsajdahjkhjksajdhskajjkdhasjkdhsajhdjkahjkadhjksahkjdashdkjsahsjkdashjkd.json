@@ -1,11 +1,3 @@
 {
-  "users": [
-    {
-      "username": "Fiver",
-      "key": "123",
-      "hwid": "",
-      "expires": "2026-03-14",
-      "banned": false
-    }
-  ]
+  "users": []
 }
