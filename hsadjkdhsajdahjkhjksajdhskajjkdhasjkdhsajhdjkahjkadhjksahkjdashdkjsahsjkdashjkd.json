@@ -3,10 +3,9 @@
     {
       "username": "Fiver",
       "key": "Fiver-123",
-      "hwid": "",
+      "hwid": "BFEBFBFF000A0653",
       "expires": "2026-03-14",
-      "banned": false,
-      "lastlogin": ""
+      "banned": false
     }
   ]
 }
