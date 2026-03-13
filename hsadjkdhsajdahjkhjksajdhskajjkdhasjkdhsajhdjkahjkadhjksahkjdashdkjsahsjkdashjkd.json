@@ -1,18 +1,3 @@
 {
-  "users": [
-    {
-      "username": "Fiver",
-      "key": "Fiverr-Admin",
-      "hwid": "",
-      "expires": "2026-03-18",
-      "banned": true
-    },
-    {
-      "username": "Fiver",
-      "key": "Fiver-Test",
-      "hwid": "",
-      "expires": "2026-03-14",
-      "banned": false
-    }
-  ]
+  "users": []
 }
