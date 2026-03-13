@@ -6,6 +6,46 @@
       "hwid": "BFEBFBFF000A0653",
       "expires": "2026-03-18",
       "banned": true
+    },
+    {
+      "username": "user2989",
+      "key": "PBM5-UJOI-Q4UC",
+      "hwid": "",
+      "expires": "2099-01-01",
+      "banned": false,
+      "lastlogin": ""
+    },
+    {
+      "username": "user9777",
+      "key": "RJT8-MGEQ-OU5T",
+      "hwid": "",
+      "expires": "2099-01-01",
+      "banned": false,
+      "lastlogin": ""
+    },
+    {
+      "username": "user8361",
+      "key": "JZ25-NZ4X-U61I",
+      "hwid": "",
+      "expires": "2099-01-01",
+      "banned": false,
+      "lastlogin": ""
+    },
+    {
+      "username": "user2795",
+      "key": "CRUZ-27EX-D7D7",
+      "hwid": "",
+      "expires": "2099-01-01",
+      "banned": false,
+      "lastlogin": ""
+    },
+    {
+      "username": "user7222",
+      "key": "3IGP-NNI9-29VP",
+      "hwid": "",
+      "expires": "2099-01-01",
+      "banned": false,
+      "lastlogin": ""
     }
   ]
 }
