@@ -1,3 +1,12 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "CodecMaster",
+      "key": "Codec-VVMJ-2I6L-HRM0",
+      "hwid": "",
+      "expires": "2026-03-28",
+      "banned": false,
+      "lastlogin": ""
+    }
+  ]
 }
