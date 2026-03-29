@@ -1,0 +1,11 @@
+[
+  {
+    "key": "VORTEX-ADMIN",
+    "assigned_to": "ADMIN",
+    "expiry_date": "2027-03-29",
+    "rank": "Admin",
+    "status": "active",
+    "note": "admin test amacli key uretimi",
+    "created_at": "2026-03-29T10:45:59.917834"
+  }
+]
